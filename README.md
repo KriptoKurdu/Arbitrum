@@ -6,7 +6,7 @@
 
 **RAM:** 8 GB
 
-**SSD:** 200 GB
+**SSD:**  1 TB
 
 
 #### sunucumuzu güncelliyoruz
